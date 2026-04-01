@@ -12,7 +12,13 @@
   <a href="https://www.nielit.gov.in">
     <img src="https://img.shields.io/badge/Organisation-NIELIT-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white" />
   </a>
+    <a href="https://www.nielit.ac.in">
+    <img src="https://img.shields.io/badge/Organisation-NIELIT-Deemed-to-be-University-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white" />
+  </a>
 </p>
+
+<img width="666" height="374" alt="ndu-logo (2)" src="https://github.com/user-attachments/assets/5737bb30-f4cd-47ce-99b4-4be2bbc269f0" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scientist--E-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" />
