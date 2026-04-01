@@ -163,10 +163,13 @@ As **Chief Investigator**, I lead two critical domains:
 
 | Title | Publisher / Journal | Year | Role |
 |---|---|---|---|
-| 🆕 **Explainable AI for Web and Text Mining** | International Journal of Digital Technologies (IJDT) | Jan 2026 | Lead Author |
-| 🆕 **Pioneering Advances in AI, Machine Learning, and Big Data Analytics** | Book Chapter – Springer | 2026 | Lead Author |
+| 🆕 **Explainable AI for Web and Text Mining** | International Journal of Digital Technologies (IJDT) | Jan 2026 | Author |
+| 🆕 **Pioneering Advances in AI, Machine Learning, and Big Data Analytics** | Book Chapter – Springer | 2026 | Author |
+| 🆕 **Generating House Floor Layout Images Using Diffusion Model** | Book Chapter – Springer | 2026 | Best Paper Award NICEDT-2025 |
+| 🆕 **A Comparative Analysis of Convolutional Neural Network Architectures for Excess Grass Detection on Playground** | Book Chapter – Springer | 2026 | Author |
+| 🆕 **Assessing the Digital Readiness of Primary Education in India: Pathways to a Technologically Empowered Future** | Book Chapter – Springer | 2026 | Author |
 | 🆕 **Design and Evaluation of a DID-Based Accountability Framework for Resource-Constrained IoT Devices** | Lecture Notes in Networks and Systems – Springer | Jan 2026 | Lead Author |
-| 🆕 **Blockchain-Based Certificate Verification System** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Lead Author |
+| 🆕 **Blockchain-Based Certificate Verification System** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Author |
 | **Block Chain Based Supply Chain Management: An Overview** | International Journal of Control and Automation, Vol 12(5) | 2019 | Author |
 | **Artificial Intelligence, Machine Learning and Deep Learning** | NIELIT Newsletter | Apr 2019 | Author |
 | **Blockchain Based Supply Chain Management** | NIELIT Newsletter | Jan 2021 | Author |
