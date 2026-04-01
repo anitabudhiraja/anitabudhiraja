@@ -158,7 +158,7 @@ As **Chief Investigator**, I lead two critical domains:
 ## 📰 Research Publications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Springer-4%20Publications-00629B?style=for-the-badge&logo=springer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Springer-6%20Publications-00629B?style=for-the-badge&logo=springer&logoColor=white" />
   <img src="https://img.shields.io/badge/IJDT%20%7C%20IJCA-Published-43A047?style=for-the-badge&logo=researchgate&logoColor=white" />
   <img src="https://img.shields.io/badge/Author-10+%20Papers-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
