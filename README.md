@@ -111,7 +111,7 @@ I am **Anita Budhiraja**, Associate Dean – Academics at **NIELIT Chandigarh/Ro
 ## 💼 Key Roles & Responsibilities
 
 - 🏫 **Associate Dean – Academics**, NIELIT Ropar
-- 🔬 **Project Coordinator** – Work Based Learning Scheme (MeitY) for upskilling in Emerging Technologies
+- 🔬 **Project Coordinator** – FurtureSkills PRIME (Programme for Re-skilling/Up-skilling of IT Manpower for Employability) and Work Based Learning Scheme (MeitY) for upskilling in Emerging Technologies
 - 🌐 **Coordinator** – NIELIT Virtual Academy & Alumni Data
 - 🎯 **Quality Assurance & Placement Officer**, NIELIT
 - 📣 **Nodal Officer** – Social Media & Swachhta Action Plan
