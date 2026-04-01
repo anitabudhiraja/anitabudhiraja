@@ -98,11 +98,6 @@ I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitabudhiraja&show_icons=true&theme=tokyonight&hide_border=true&title_color=6A0DAD&icon_color=6A0DAD" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitabudhiraja&layout=compact&theme=tokyonight&hide_border=true&title_color=6A0DAD" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitabudhiraja&theme=tokyonight&hide_border=true&ring=6A0DAD&fire=FF6F00&currStreakLabel=6A0DAD" />
 </p>
 
