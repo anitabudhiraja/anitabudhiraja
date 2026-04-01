@@ -4,31 +4,32 @@
 
 <p align="center">
   <a href="mailto:a.budhiraja@nielit.gov.in">
-    <img src="https://img.shields.io/badge/Email-a.budhiraja%40nielit.gov.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-a.budhiraja%40nielit.gov.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/anitabudhiraja">
-    <img src="https://img.shields.io/badge/GitHub-anitabudhiraja-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-anitabudhiraja-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.nielit.gov.in">
-    <img src="https://img.shields.io/badge/Organisation-NIELIT-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Organisation-NIELIT-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white" alt="NIELIT" />
   </a>
-    <a href="https://www.nielit.ac.in">
-    <img src="https://img.shields.io/badge/Organisation-NIELIT-Deemed-to-be-University-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white" />
+  <a href="https://www.nielit.ac.in">
+    <img src="https://img.shields.io/badge/Organisation-NIELIT%20Deemed%20to%20be%20University-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white" alt="NIELIT Deemed University" />
   </a>
 </p>
 
-<img width="666" height="374" alt="ndu-logo (2)" src="https://github.com/user-attachments/assets/5737bb30-f4cd-47ce-99b4-4be2bbc269f0" />
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Scientist--E-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/HoD%20%E2%80%94%20Training%20Dept.-FF6F00?style=for-the-badge&logo=teachable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assoc.%20Dean%20%E2%80%94%20Academics-0057A8?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img width="666" height="374" alt="ndu-logo" src="https://github.com/user-attachments/assets/5737bb30-f4cd-47ce-99b4-4be2bbc269f0" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anitabudhiraja&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/anitabudhiraja?style=for-the-badge&color=0057A8&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/Title-Scientist--E-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" alt="Scientist-E" />
+  <img src="https://img.shields.io/badge/Title-HoD%20%E2%80%94%20Training%20Dept.-FF6F00?style=for-the-badge&logo=teachable&logoColor=white" alt="HoD" />
+  <img src="https://img.shields.io/badge/Title-Assoc.%20Dean%20%E2%80%94%20Academics-0057A8?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Assoc. Dean" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anitabudhiraja&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anitabudhiraja?style=for-the-badge&color=0057A8&label=FOLLOWERS" alt="Followers" />
 </p>
 
 ---
