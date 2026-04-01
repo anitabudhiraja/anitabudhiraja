@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img width="666" height="374" alt="ndu-logo" src="https://github.com/user-attachments/assets/5737bb30-f4cd-47ce-99b4-4be2bbc269f0" />
+  <img width="666" height="374" alt="ndu-logo" src="https://github.com/user-attachments/assets/e658d14f-7999-4ffd-9c9f-ba7e7790830f" />
 </p>
 
 <p align="center">
