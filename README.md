@@ -123,9 +123,9 @@ I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and
 
 ## 💼 Key Roles & Responsibilities
 
-- 🔬 **Scientist-E**, NIELIT Chandigarh / Ropar
+- 🔬 **Scientist-E**, NIELIT Ropar / NIELIT (Deemed to be University), Main Campus Ropar
 - 🏫 **Associate Dean – Academics**, NIELIT Ropar
-- 🗂️ **Head of Department – Training**, NIELIT Chandigarh / Ropar
+- 🗂️ **Head of Department – Training**, NIELIT Ropar
 - 🚀 **Chief Investigator** – FutureSkills PRIME (MeitY, Govt. of India) — BDDS & ARVR Domains
 - 🔬 **Project Coordinator** – Work Based Learning Scheme (MeitY) for upskilling in Emerging Technologies
 - 🌐 **Coordinator** – NIELIT Virtual Academy & Alumni Data
