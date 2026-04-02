@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Anita+Budhiraja;Scientist-E+%7C+NIELIT+Ropar;Assoc.+Dean+-+Academics+%7C+HoD+Training;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Researcher;25%2B+Years+of+Teaching+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Anita+Budhiraja;Scientist-E+%7C+NIELIT+Ropar;Assoc.+Dean+-+Academics+%7C+HoD+Training;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Researcher;30%2B+Years+of+Teaching+Excellence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,11 +38,11 @@
 
 > *"Empowering learners with the technologies of tomorrow — today."*
 
-I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and **Head of Department (Training)** at **NIELIT Chandigarh/Ropar**, with over **25 years of rich teaching, training, and research experience** in Computer Science & Emerging Technologies. I specialize in bridging the gap between academic knowledge and industry relevance across AI, Machine Learning, Data Science, Blockchain, IoT, AR/VR, and Software Engineering.
+I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and **Head of Department (Training)** at **NIELIT Chandigarh/Ropar**, with over **30+ years of rich teaching, training, and research experience** in Computer Science & Emerging Technologies. I specialize in bridging the gap between academic knowledge and industry relevance across AI, Machine Learning, Data Science, Blockchain, IoT, AR/VR, and Software Engineering.
 
 - 🔬 **Designation:** Scientist-E | Associate Dean – Academics | HoD – Training Department
-- 🏢 **Organisation:** NIELIT Chandigarh / Ropar
-- 🎓 **Qualifications:** M.Tech (C Level, NIELIT) · MCA (B Level, DOEACC) · PGDCA (KUK) · M.A. Economics (Punjab University)
+- 🏢 **Organisation:** NIELIT Ropar / NIELIT (Deemed to be University), Main Campus Ropar
+- 🎓 **Qualifications:** M.Tech · MCA · PGDCA (KUK) · M.A. Economics (Punjab University)
 - 📍 **Location:** Chandigarh / Ropar, India
 - 📞 **Contact:** +91 98159 88717
 - 📧 **Email:** [a.budhiraja@nielit.gov.in](mailto:a.budhiraja@nielit.gov.in)
