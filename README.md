@@ -114,8 +114,8 @@ I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and
 
 | Degree / Certificate | Institute / University | Year |
 |---|---|---|
-| 🎓 M.Tech – C Level | NIELIT | 2014 |
-| 🎓 MCA – B Level | DOEACC | 2005 |
+| 🎓 M.Tech –  | NIELIT | 2014 |
+| 🎓 MCA –  | DOEACC | 2005 |
 | 🎓 PGDCA | Kurukshetra University | 1998 |
 | 🎓 M.A. Economics | Punjab University | 1991 |
 
