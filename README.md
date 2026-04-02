@@ -171,7 +171,10 @@ As **Chief Investigator**, I lead two critical domains:
 | 🆕 **A Comparative Analysis of Convolutional Neural Network Architectures for Excess Grass Detection on Playground** | Book Chapter – Springer | 2026 | Author |
 | 🆕 **Assessing the Digital Readiness of Primary Education in India: Pathways to a Technologically Empowered Future** | Book Chapter – Springer | 2026 | Author |
 | 🆕 **Design and Evaluation of a DID-Based Accountability Framework for Resource-Constrained IoT Devices** | Lecture Notes in Networks and Systems – Springer | Jan 2026 | Lead Author |
-| 🆕 **Blockchain-Based Certificate Verification System** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Author |
+| **Blockchain-Based Certificate Verification System: A Decentralized Approach** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Author |
+| **Resume Summarization: An Application of Generative AI** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Author |
+| **Machine Learning, Malware Detection: SecureAI** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Author |
+| **Enhancing Accessibility for the Visually Impaired: A Multimodal Approach** | Lecture Notes in Networks and Systems – Springer | Jul 2024 | Author |
 | **Block Chain Based Supply Chain Management: An Overview** | International Journal of Control and Automation, Vol 12(5) | 2019 | Author |
 | **Artificial Intelligence, Machine Learning and Deep Learning** | NIELIT Newsletter | Apr 2019 | Author |
 | **Blockchain Based Supply Chain Management** | NIELIT Newsletter | Jan 2021 | Author |
