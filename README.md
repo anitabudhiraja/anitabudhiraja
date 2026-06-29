@@ -165,6 +165,7 @@ As **Chief Investigator**, I lead two critical domains:
 
 | Title | Publisher / Journal | Year | Role |
 |---|---|---|---|
+| 🆕 **[Review and Analysis of Deep Learning Techniques for Stroke Etiology Identification](https://ieeexplore.ieee.org/document/11390310)** | IEEE | 2025 | Author |
 | 🆕 **Explainable AI for Web and Text Mining** | International Journal of Digital Technologies (IJDT) | Jan 2026 | Author |
 | 🆕 **Pioneering Advances in AI, Machine Learning, and Big Data Analytics** | Book Chapter – Springer | 2026 | Author |
 | 🆕 **Generating House Floor Layout Images Using Diffusion Model** | Book Chapter – Springer | 2026 | Best Paper Award NICEDT-2025 |
