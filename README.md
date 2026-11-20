@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Anita+Budhiraja;Scientist-E+%7C+NIELIT+Ropar;Assoc.+Dean+-+Academics+%7C+HoD+Training;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Researcher;30%2B+Years+of+Teaching+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anita+Budhiraja;Scientist-E+%7C+NIELIT+Ropar;Assoc.+Dean+-+Academics+%7C+HoD+Training;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Researcher;30%2B+Years+of+Teaching+Excellence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,14 +38,15 @@
 
 > *"Empowering learners with the technologies of tomorrow — today."*
 
-I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and **Head of Department (Training)** at **NIELIT Chandigarh/Ropar**, with over **30+ years of rich teaching, training, and research experience** in Computer Science & Emerging Technologies. I specialize in bridging the gap between academic knowledge and industry relevance across AI, Machine Learning, Data Science, Blockchain, IoT, AR/VR, and Software Engineering.
+I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and **Head of Department (Training)** at **NIELIT Chandigarh/Ropar**, with over **30+ years of rich teaching, training, and research experience** in Computer Science & Emerging Technologies. I specialize in bridging the gap between academic knowledge and industry relevance across Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Blockchain, IoT Security, AR/VR, and Software Engineering.
 
 - 🔬 **Designation:** Scientist-E | Associate Dean – Academics | HoD – Training Department
 - 🏢 **Organisation:** NIELIT Ropar / NIELIT (Deemed to be University), Main Campus Ropar
 - 🎓 **Qualifications:** M.Tech · MCA · PGDCA (KUK) · M.A. Economics (Punjab University)
-- 📍 **Location:** Chandigarh / Ropar, India
+- 📍 **Location:** Chandigarh / Ropar, Punjab, India
 - 📞 **Contact:** +91 98159 88717
 - 📧 **Email:** [a.budhiraja@nielit.gov.in](mailto:a.budhiraja@nielit.gov.in)
+- 🌐 **Institutional Portal:** [nielit.gov.in](https://www.nielit.gov.in) | [nielit.ac.in](https://www.nielit.ac.in)
 
 ---
 
@@ -54,8 +55,9 @@ I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-43A047?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-43A047?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-00897B?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Big%20Data%20Analytics-1565C0?style=for-the-badge&logo=apachehadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
@@ -76,9 +78,11 @@ I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -86,72 +90,79 @@ I am **Anita Budhiraja**, **Scientist-E**, **Associate Dean – Academics**, and
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
   <img src="https://img.shields.io/badge/Unix%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 📂 Featured Repositories
 
-| Repository | Description | Topics |
-|---|---|---|
-| 🤖 [MachineLearning](https://github.com/anitabudhiraja/MachineLearning) | Presentations & Jupyter notebooks on ML concepts | ML, Jupyter, Python |
-| 🧠 [DeepLearning](https://github.com/anitabudhiraja/DeepLearning) | Deep Learning notebooks and resources | DL, Neural Networks |
-| 🐍 [python](https://github.com/anitabudhiraja/python) | Python lecture PDFs and notebooks | Python, Teaching |
-| 📚 [training](https://github.com/anitabudhiraja/training) | Training materials across subjects | AI, DS, Python |
-| 📄 [python-pdf](https://github.com/anitabudhiraja/python-pdf) | Python lecture PDFs | Python |
+| Repository | Description | Key Topics |
+|:---|:---|:---|
+| 🤖 [**MachineLearning**](https://github.com/anitabudhiraja/MachineLearning) | Curated presentations, conceptual frameworks, and interactive Jupyter notebooks on ML | `ML` • `Jupyter` • `Python` • `Algorithms` |
+| 🧠 [**DeepLearning**](https://github.com/anitabudhiraja/DeepLearning) | Deep Neural Networks, backpropagation architectures, CNNs, and practical notebooks | `DL` • `Neural Networks` • `PyTorch` • `TensorFlow` |
+| 🐍 [**python**](https://github.com/anitabudhiraja/python) | Comprehensive lecture slide decks, PDFs, programming exercises, and teaching guides | `Python` • `Pedagogy` • `Data Structures` |
+| 📚 [**training**](https://github.com/anitabudhiraja/training) | Training programs and workshop materials for student and professional capacity building | `AI` • `Data Science` • `Industry 4.0` |
+| 📄 [**python-pdf**](https://github.com/anitabudhiraja/python-pdf) | Academic courseware, reference guides, and modular Python documentation | `Python` • `Handouts` • `Reference` |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitabudhiraja&theme=tokyonight&hide_border=true&ring=6A0DAD&fire=FF6F00&currStreakLabel=6A0DAD" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitabudhiraja&theme=tokyonight&hide_border=true&ring=6A0DAD&fire=FF6F00&currStreakLabel=6A0DAD" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anitabudhiraja&show_icons=true&theme=tokyonight&hide_border=true&title_color=6A0DAD&icon_color=FF6F00" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitabudhiraja&layout=compact&theme=tokyonight&hide_border=true&title_color=6A0DAD" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🏛️ Academic Qualifications
 
-| Degree / Certificate | Institute / University | Year |
-|---|---|---|
-| 🎓 M.Tech   | NIELIT | 2014 |
-| 🎓 MCA   | DOEACC | 2005 |
-| 🎓 PGDCA | Kurukshetra University | 1998 |
-| 🎓 M.A. Economics | Punjab University | 1991 |
+| Degree / Certification | Institute / University | Year | Specialization / Distinction |
+|:---|:---|:---:|:---|
+| 🎓 **M.Tech** | NIELIT | 2014 | Computer Science & Engineering |
+| 🎓 **MCA** | DOEACC Society | 2005 | Master of Computer Applications |
+| 🎓 **PGDCA** | Kurukshetra University (KUK) | 1998 | Post Graduate Diploma in Computer Applications |
+| 🎓 **M.A. Economics** | Punjab University | 1991 | Economics & Quantitative Analysis |
 
 ---
 
-## 💼 Key Roles & Responsibilities
+## 💼 Key Leadership Roles & Institutional Responsibilities
 
 - 🔬 **Scientist-E**, NIELIT Ropar / NIELIT (Deemed to be University), Main Campus Ropar
 - 🏫 **Associate Dean – Academics**, NIELIT Ropar
 - 🗂️ **Head of Department – Training**, NIELIT Ropar
 - 🚀 **Chief Investigator** – FutureSkills PRIME (MeitY, Govt. of India) — BDDS & ARVR Domains
 - 🔬 **Project Coordinator** – Work Based Learning Scheme (MeitY) for upskilling in Emerging Technologies
-- 🌐 **Coordinator** – NIELIT Virtual Academy & Alumni Data
-- 🎯 **Quality Assurance & Placement Officer**, NIELIT
-- 📣 **Nodal Officer** – Social Media & Swachhta Action Plan
-- 🤝 **Coordinator** – IIT Ropar Joint Certification Programs
-- 👩‍💻 **Member** – HQ Expert Groups for AI & Blockchain (Syllabus Design, NSQF Files)
+- 🌐 **Coordinator** – NIELIT Virtual Academy & Alumni Ecosystem
+- 🎯 **Quality Assurance & Placement Officer**, NIELIT Ropar
+- 📣 **Nodal Officer** – Social Media Communications & Swachhta Action Plan
+- 🤝 **Institutional Coordinator** – IIT Ropar Joint Certification Programs
+- 👩‍💻 **Member** – HQ Expert Groups for Artificial Intelligence & Blockchain (Curriculum Design, NSQF File Approvals)
 
 ---
 
-## 🇮🇳 Government Project — FutureSkills PRIME (Chief Investigator)
+## 🇮🇳 National Flagship Project — FutureSkills PRIME (Chief Investigator)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MeitY%20GoI-Sanctioned%20Project-D32F2F?style=for-the-badge&logo=gov.uk&logoColor=white" />
-  <img src="https://img.shields.io/badge/NASSCOM%20%7C%20NIELIT%20%7C%20CDAC-PAN%20India-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Champion%20Services%20Sector%20Scheme-CSSS-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MeitY%20GoI-Sanctioned%20National%20Project-D32F2F?style=for-the-badge&logo=gov.uk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joint%20Initiative-NASSCOM%20%7C%20NIELIT%20%7C%20C--DAC-1565C0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Champion%20Services%20Sector-CSSS%20Scheme-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
-**FutureSkills PRIME** *(Programme for Re-skilling / Up-skilling of IT Manpower for Employability)* is a flagship **Central Sector Scheme** sanctioned by the **Government of India**, implemented jointly by **NASSCOM, NIELIT, and CDAC** across PAN India under the directions of the **Ministry of Electronics and Information Technology (MeitY)**. The programme covers training in **ten emerging technologies**.
+**FutureSkills PRIME** *(Programme for Re-skilling / Up-skilling of IT Manpower for Employability)* is a flagship **Central Sector Scheme** sanctioned by the **Government of India**, implemented jointly by **NASSCOM, NIELIT, and C-DAC** across PAN India under the directions of the **Ministry of Electronics and Information Technology (MeitY)**. The programme delivers comprehensive training across ten emerging technologies.
 
-As **Chief Investigator**, I lead two critical domains:
+As **Chief Investigator**, I spearhead two high-impact national domains:
 
-| Domain | Key Focus Areas |
-|---|---|
-| 📊 **Big Data & Data Science (BDDS)** | Big Data ecosystems, Data Analytics pipelines, ML at scale, Python for Data Science |
-| 🥽 **Augmented Reality & Virtual Reality (ARVR)** | AR/VR application development, immersive technology, spatial computing |
+| Domain | Key Focus & Impact Areas |
+|:---|:---|
+| 📊 **Big Data & Data Science (BDDS)** | Big Data ecosystems, Distributed Computing, Data Engineering pipelines, Scalable Machine Learning, and Python for Analytics |
+| 🥽 **Augmented Reality & Virtual Reality (ARVR)** | Immersive technologies, 3D interaction design, spatial computing pipelines, and interactive simulator development |
 
 ---
 
@@ -159,16 +170,17 @@ As **Chief Investigator**, I lead two critical domains:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Springer-9%20Publications-00629B?style=for-the-badge&logo=springer&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   <img src="https://img.shields.io/badge/IJDT%20%7C%20IJCA-Published-43A047?style=for-the-badge&logo=researchgate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Author-10+%20Papers-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Author-14+%20Peer--Reviewed%20Works-6A0DAD?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
-| Title | Publisher / Journal | Year | Role |
-|---|---|---|---|
-| 🆕 **[Review and Analysis of Deep Learning Techniques for Stroke Etiology Identification](https://ieeexplore.ieee.org/document/11390310)** | IEEE | 2025 | Author |
+| Title | Publisher / Journal | Year | Role / Distinction |
+|:---|:---|:---:|:---|
+| 🆕 **[Review and Analysis of Deep Learning Techniques for Stroke Etiology Identification](https://ieeexplore.ieee.org/document/11390310)** | IEEE Xplore | 2025 | Author |
+| 🆕 **[Generating House Floor Layout Images Using Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-9935-3_33)** | Book Chapter – Springer | 2026 | 🏆 **Best Paper Award (NICEDT-2025)** |
 | 🆕 **[Explainable AI for Web and Text Mining](https://journal.nielit.edu.in/index.php/01/article/view/135)** | International Journal of Digital Technologies (IJDT) | Jan 2026 | Author |
 | 🆕 **[Pioneering Advances in AI, Machine Learning, and Big Data Analytics](https://link.springer.com/chapter/10.1007/978-981-96-9935-3_32)** | Book Chapter – Springer | 2026 | Author |
-| 🆕 **[Generating House Floor Layout Images Using Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-9935-3_33)** | Book Chapter – Springer | 2026 | Best Paper Award NICEDT-2025 |
 | 🆕 **[A Comparative Analysis of Convolutional Neural Network Architectures for Excess Grass Detection on Playground](https://link.springer.com/chapter/10.1007/978-981-96-9935-3_31)** | Book Chapter – Springer | 2026 | Author |
 | 🆕 **[Assessing the Digital Readiness of Primary Education in India: Pathways to a Technologically Empowered Future](https://link.springer.com/chapter/10.1007/978-981-96-9935-3_27)** | Book Chapter – Springer | 2026 | Author |
 | 🆕 **Design and Evaluation of a DID-Based Accountability Framework for Resource-Constrained IoT Devices** | Lecture Notes in Networks and Systems – Springer | Jan 2026 | Lead Author |
@@ -182,52 +194,53 @@ As **Chief Investigator**, I lead two critical domains:
 
 ---
 
-## 🖥️ Software Projects Developed
+## 🖥️ Major Software & Governance Systems Developed
 
-| Project | Description |
-|---|---|
-| 📝 NCPUL Registration & Examination Module | End-to-end registration and exam system |
-| 🏫 Chandigarh Education Dept. Counselling | Admissions to 10+1 across 42 Govt. Schools |
-| ⚡ PSEB Online Electricity Billing | Online billing system for Punjab State |
-| 🗂️ NIELIT Training Management System | Internal training management platform |
-| 📋 NIELIT Course Registration Module | Online course registration system |
+| System / Initiative | Domain & Impact |
+|:---|:---|
+| 📝 **NCPUL Registration & Examination Module** | Scalable end-to-end national online registration and exam processing system |
+| 🏫 **Chandigarh Education Dept. Centralized Counselling** | Online admission and seat allocation engine for 10+1 across 42 Government Schools |
+| ⚡ **PSEB Online Electricity Billing** | High-throughput web billing and revenue reconciliation platform for Punjab State |
+| 🗂️ **NIELIT Training Management System (TMS)** | Comprehensive enterprise ERP for batch tracking, grading, and certification |
+| 📋 **NIELIT Course Registration Portal** | Public-facing student admissions, fee gateway integration, and verification module |
 
 ---
 
-## 🎤 Expert Lectures Delivered
+## 🎤 Invited Keynotes & Expert Lectures
 
 <details>
-<summary><b>Click to expand — Institutions & Topics</b></summary>
+<summary><b>Click to expand — Academic Institutions & Lecture Themes</b></summary>
+<br/>
 
-| Topic | Institutes |
-|---|---|
-| **AI & Machine Learning** | Rayat Bahra Group of Colleges, Punjabi University Patiala, IET Bhaddal Ropar, Mata Gujri College, PG Govt. College for Girls Chandigarh |
-| **Data Science in Python** | DCRUST Murthal, DAVIET Jalandhar, IET Bhaddal, Govt. College Ropar, CCE Chandigarh |
-| **Interdisciplinary Role of AI** | Punjabi University Patiala (Refresher Course, UGC-HRD Centre) |
-| **AI Infrastructure for Modern Innovators** | Fore Solutions × Pure Storage |
-| **Blockchain Technology** | Rayat Bahra Group, Punjabi University Patiala |
-| **Big Data using Hadoop** | Chandigarh University, DAVIET, NABI, PTU Mohali, PG Govt. College |
-| **Advance Data Structures** | CCE Chandigarh |
-| **Web Applications in ASP.Net** | DAV College, MCM College Chandigarh |
-| **MOOCs using Moodle** | Bela College, Ropar |
-| **Information Security** | TBRL, Ramgarh, Panchkula |
-| **Digital Payments** | Senior Citizens Council Ropar, SMEs across Chandigarh, Haryana, Punjab, Una |
-| **e-Waste Awareness** | ITI Mohali, Govt. School Sector 47 Chandigarh |
-| **Career Opportunities in Computer Industry** | Punjab University (Placement Cell, All Departments) |
+| Specialized Topic | Host Institutions & Organizations |
+|:---|:---|
+| 🤖 **Artificial Intelligence & Machine Learning** | Rayat Bahra Group of Colleges, Punjabi University Patiala, IET Bhaddal Ropar, Mata Gujri College, PG Govt. College for Girls Chandigarh |
+| 🐍 **Data Science & Python Programming** | DCRUST Murthal, DAVIET Jalandhar, IET Bhaddal, Govt. College Ropar, CCE Chandigarh |
+| 🌐 **Interdisciplinary Role of AI in Higher Education** | UGC-HRD Centre, Punjabi University Patiala (Faculty Refresher Courses) |
+| ⚡ **AI Infrastructure for Modern Innovators** | Fore Solutions × Pure Storage Industry Summit |
+| 🔗 **Blockchain Technology & Distributed Ledgers** | Rayat Bahra Group, Punjabi University Patiala |
+| 📊 **Big Data Analytics using Hadoop & Spark** | Chandigarh University, DAVIET, NABI, PTU Mohali, PG Govt. College |
+| 🧩 **Advanced Data Structures & Algorithmic Efficiency** | Centre for Computing and Engineering (CCE) Chandigarh |
+| 💻 **Enterprise Web Applications in ASP.Net & C#** | DAV College, MCM DAV College Chandigarh |
+| 🎓 **MOOCs Design & Digital Pedagogies using Moodle** | ASBASJSM College, Bela, Ropar |
+| 🛡️ **Information Security & Defense Computing** | Terminal Ballistics Research Laboratory (TBRL), DRDO, Ramgarh/Panchkula |
+| 💳 **Digital Payments & Cashless Economy Awareness** | Senior Citizens Council Ropar; SME training across Chandigarh, Haryana, Punjab, and Una |
+| ♻️ **e-Waste Management & Environmental Awareness** | ITI Mohali, Govt. Model Senior Secondary School Sector 47 Chandigarh |
+| 🧭 **Career Roadmaps in the Modern Computer Industry** | Punjab University Central Placement Cell (All Departments) |
 
 </details>
 
 ---
 
-## 🏅 Certifications & Trainings Attended
+## 🏅 Certifications, Faculty Development & Honours
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Indo--Taiwan%20%7C%20IIT%20Ropar-8E24AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-CDAC%20Mohali-00897B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-Noida-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/MOOCs%20Design-Punjab%20University-0057A8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Social%20Media%20Best%20Practices-MeitY-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Indo--Taiwan%20%7C%20IIT%20Ropar-8E24AA?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-C--DAC%20Mohali-00897B?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20Big%20Data-Noida-1565C0?style=for-the-badge&logo=white" />
+  <img src="https://img.shields.io/badge/MOOCs%20Instructional%20Design-Panjab%20University-0057A8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Social%20Media%20Best%20Practices-MeitY%20GoI-FF6F00?style=for-the-badge&logo=gov.uk&logoColor=white" />
 </p>
 
 ---
@@ -236,24 +249,28 @@ As **Chief Investigator**, I lead two critical domains:
 
 <p align="center">
   <a href="mailto:a.budhiraja@nielit.gov.in">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email%20Me-a.budhiraja%40nielit.gov.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/anitabudhiraja">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-anitabudhiraja-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.nielit.gov.in">
-    <img src="https://img.shields.io/badge/NIELIT%20Website-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NIELIT%20Portal-nielit.gov.in-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.nielit.ac.in">
+    <img src="https://img.shields.io/badge/University%20Portal-nielit.ac.in-0057A8?style=for-the-badge&logo=gov.uk&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&text=Teaching%20%7C%20Research%20%7C%20Innovation%20%7C%20Leadership&fontSize=17&fontColor=white&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&text=Teaching%20%7C%20Research%20%7C%20Innovation%20%7C%20Leadership&fontSize=18&fontColor=white&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <i>⭐ If you find my repositories helpful, please consider starring them!</i>
+  <i>⭐ If you find my repositories and teaching materials helpful, please consider starring them!</i>
 </p>
