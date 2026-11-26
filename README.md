@@ -3,11 +3,12 @@
 <!-- Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A0DAD&center=true&vCenter=true&width=860&lines=Hi+%F0%9F%91%8B%2C+I'm+Anita+Budhiraja;Scientist-E+%7C+NIELIT+Ropar;Associate+Dean+-+Academics+%7C+HoD+Training;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Researcher;Chief+Investigator+%7C+FutureSkills+PRIME+(MeitY);30%2B+Years+of+Academic+%26+Research+Excellence" alt="Typing SVG" />
 
-<br/>
+<br/> 
+
 
 <!-- Avatar with Glowing Border -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anitabudhiraja/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpeg" width="145" height="145" style="border-radius: 50%; border: 3.5px solid #6A0DAD; box-shadow: 0 6px 20px rgba(106, 13, 173, 0.45); object-fit: cover;" alt="Anita Budhiraja"/>
+  <img src="https://github.com/user-attachments/assets/51738d67-12e3-4583-ac2c-c0508907f88d"  width="145" height="145" style="border-radius: 50%; border: 3.5px solid #6A0DAD; box-shadow: 0 6px 20px rgba(106, 13, 173, 0.45); object-fit: cover;" alt="Anita Budhiraja"/ >
 </p>
 
 <!-- Name & Institutional Identity -->
